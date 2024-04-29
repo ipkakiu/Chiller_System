@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-df = pd.read_csv(r"C:\Users\macro.ip\Desktop\Chiller_System\data_dump.csv") # change string to raw strong
+df = pd.read_csv(r"C:\Users\Marco ip\OneDrive\Desktop\Chiller_System\data_dump.csv") # change string to raw strong
 
 
 count_row = df.shape[0]  # Gives number of rows
